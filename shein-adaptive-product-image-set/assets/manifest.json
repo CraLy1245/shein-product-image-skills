@@ -1,0 +1,16 @@
+{
+  "skill_name": "shein-adaptive-product-image-set",
+  "version": "1.3.4",
+  "source": "shein-adaptive-product-image-set-openai-compliant-v1.3.4-mainline.zip",
+  "behavior": "v1.3 preserved; OpenAI Codex skill format; v1.3.4 visual variation plus ImageGen long-tail wait/retry guardrails",
+  "max_images": 11,
+  "default_fixed_count": false,
+  "z001_main_image_required": true,
+  "size_dimension_required": true,
+  "sku_image_default": "excluded",
+  "validation_guardrails": [
+    "forbidden identical-background wording",
+    "duplicate visual task detection",
+    "ImageGen long-tail wait and retry policy"
+  ]
+}

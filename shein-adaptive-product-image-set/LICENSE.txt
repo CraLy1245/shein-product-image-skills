@@ -1,0 +1,4 @@
+Private workflow skill for JiaZ.
+
+This package contains user-authored workflow instructions and templates for SHEIN-style e-commerce product image planning and image generation.
+Do not redistribute without permission.

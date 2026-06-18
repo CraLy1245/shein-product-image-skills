@@ -1,0 +1,7 @@
+interface:
+  display_name: "SHEIN Adaptive Product Image Set"
+  short_description: "Plan and generate adaptive SHEIN-style product image sets from 1688 product materials."
+  brand_color: "#111827"
+  default_prompt: "Use $shein-adaptive-product-image-set to analyze this product package, select necessary image modules, write imagegen prompts, and generate images one by one if requested."
+policy:
+  allow_implicit_invocation: true
