@@ -1,0 +1,29 @@
+# Module Selection Report Template
+
+- Product Type:
+- Main Purchase Reason:
+- Main Consumer Concerns:
+- Visual Difficulty:
+- Primary Style:
+- Secondary Style:
+- Styles Not Recommended:
+- Reason For Style Choice:
+- Visual Anchor:
+  - Background family:
+  - Lighting:
+  - Product rendering:
+  - Typography:
+  - Label style:
+  - Accent color:
+  - Overall mood:
+- Image Style Distribution Summary:
+- Mandatory Modules:
+  - Z-001 Main Image
+  - Size / Dimension Image
+- Selected Optional Modules:
+- Skipped Modules:
+- Merged Modules:
+- Final Recommended Image Count:
+- Reason For Final Image Count:
+- SKU Image Status: Excluded by default
+- Anti-Homogenization Note: Explain why the selected modules and layouts fit this specific product rather than copying the example output.
