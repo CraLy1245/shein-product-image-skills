@@ -1,0 +1,1 @@
+# shein-product-image-skills
